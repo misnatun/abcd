@@ -71,7 +71,7 @@
 	  
       "native_ad_style": "large",
 	  
-      "show_banner_ad_home": true,
+      "show_banner_ad_home": false,
       "show_banner_ad_wallpaper_details": true,
       "show_banner_ad_category_details": true,
       "show_banner_ad_search": true,
