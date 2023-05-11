@@ -6,7 +6,7 @@
 	  
       "featured_categories": "Nature,Flower,Live Wallpaper,Beach,Space,Sunset",
 	  
-      "show_wallpaper_name": false,
+      "show_wallpaper_name": true,
       "show_wallpaper_category": false,
 	  
       "show_favorite_button_in_wallpaper_list": true,
@@ -89,12 +89,12 @@
   
   "categories": [
     {
-      "category_id": 1,
-      "category_name": "Nature",
+      "category_id": 5,
+      "category_name": "Sakura School",
       "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/nature.jpg"
     },
     {
-      "category_id": 2,
+      "category_id": 4,
       "category_name": "Sunset",
       "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/sunset.jpg"
     },
@@ -104,49 +104,14 @@
       "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/animal.jpg"
     },
     {
-      "category_id": 4,
+      "category_id": 2,
       "category_name": "Forest",
       "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/forest.jpg"
     },
     {
-      "category_id": 5,
+      "category_id": 1,
       "category_name": "City",
       "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/city.jpg"
-    },
-    {
-      "category_id": 6,
-      "category_name": "Flower",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/flower.jpg"
-    },
-    {
-      "category_id": 7,
-      "category_name": "Live Wallpaper",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/live.jpg"
-    },
-    {
-      "category_id": 8,
-      "category_name": "Beach",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/beach.jpg"
-    },
-    {
-      "category_id": 9,
-      "category_name": "House",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/house.jpg"
-    },
-    {
-      "category_id": 10,
-      "category_name": "Space",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/space.jpg"
-    },
-    {
-      "category_id": 11,
-      "category_name": "Mountain",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/mountain.jpg"
-    },
-    {
-      "category_id": 12,
-      "category_name": "Road",
-      "category_image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/wallpaper/category/road.jpg"
     }
   ],
   
