@@ -71,7 +71,7 @@
 	  
       "native_ad_style": "large",
 	  
-      "show_banner_ad_home": false,
+      "show_banner_ad_home": true,
       "show_banner_ad_wallpaper_details": true,
       "show_banner_ad_category_details": true,
       "show_banner_ad_search": true,
@@ -96,22 +96,22 @@
     {
       "category_id": 4,
       "category_name": "Wednesday Addams",
-      "category_image": "https://i.pinimg.com/originals/5c/54/d4/5c54d42a058545b8e7c06c6e44edb33b.jpg"
+      "category_image": "https://i.pinimg.com/originals/32/cf/08/32cf08021037e2c2f7a18919ad8b7a57.jpg"
     },
     {
       "category_id": 3,
       "category_name": "Turning Red",
-      "category_image": "https://i.pinimg.com/originals/9a/27/35/9a273518d71a497b9fbb51490f8508ff.jpg"
+      "category_image": "https://i.pinimg.com/originals/d4/76/a4/d476a40e3ba53e659eb331ec45bae977.jpg"
     },
     {
       "category_id": 2,
       "category_name": "Hanako Kun",
-      "category_image": "https://i.pinimg.com/564x/68/29/5c/68295c096e96ed9ecee84671dd2afb1f.jpg"
+      "category_image": "https://i.pinimg.com/originals/67/6c/51/676c51c405a49c03b99444fa7435e6c9.jpg"
     },
     {
       "category_id": 1,
       "category_name": "Ben Ten",
-      "category_image": "https://i.pinimg.com/564x/c0/51/3c/c0513c8a7b31cffa374c28c040554545.jpg"
+      "category_image": "https://i.pinimg.com/originals/b4/d9/42/b4d94249e10141714a45557085c9399c.jpg"
     }
   ],
   
